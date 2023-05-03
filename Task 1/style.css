@@ -1,0 +1,34 @@
+.div1{
+    width: 50%;
+}
+.div2{
+    width: 50%;
+}
+.div3{
+    width: 50%;
+}
+.div4{
+    width: 50%;
+}
+.div5{
+    width: 50%;
+}
+.div6{
+    width: 50%;
+}
+.div7{
+    width: 50%;
+}
+.div8{
+    width: 50%;
+}
+.div9{
+    width: 50%;
+}
+.sticky{
+    width: 50%;
+    background-color: green;
+    height: 40px;
+    position: sticky;
+    top: 0;
+}
